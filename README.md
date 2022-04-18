@@ -70,10 +70,10 @@ utils.c
 
 contains some necessary functionalities for \_printf.
 
-ger_width.c
+get_width.c
 
 contains functions to get width for spcifics spcifiers.
 
-writee_handlers.c
+write_handlers.c
 
 contains write functions.
